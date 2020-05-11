@@ -1,2 +1,2 @@
 # Face-Recognition-
-Face Recognition using K-Nearest Neighbours 
+Face Recognition using K-Nearest Neighbours Algorithm
